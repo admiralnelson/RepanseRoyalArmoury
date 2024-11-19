@@ -1,0 +1,9 @@
+{
+    "//": "PLEASE REMOVE // before pasting this into the as .json",
+    "//": "SubtypeKey is your agent key",
+    "SubtypeKey": "wh_main_brt_louen_leoncouer",
+    "//": "The agent skeleton name",
+    "Skeleton": "humanoid01c",
+    "//": "The default armoury set this character will use",
+    "DefaultArmoryItemSet": "admiralnelson_armory_louen_leonceour_basic"
+}

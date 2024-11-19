@@ -1,0 +1,22 @@
+[
+    {
+        "//": "PLEASE REMOVE // before pasting this into the as .json",
+        "//": "You may copy the effect list from existing db or game db in ancillary_to_effect tables",
+        "//": "If armoury referenced AncillaryKey that is not defined here, the powerlevel may be set to 0 for that ancillary",
+        "//": "or the armoury item may not have effects at all",
+
+        "//": "AncillaryKey should be defined in db or any db that is loaded in the game!",
+        "AncillaryKey" : "wh_main_anc_armour_armour_of_silvered_steel",
+        "//": "Measurement of how powerful this item, used by bots",
+        "PowerLevel" : "100",
+        "//": "This array works exactly like ancillary_to_effect table",
+        "Effects" : [
+            {
+                "EffectKey" : "wh_main_effect_character_stat_armour",
+                "Scope" : "character_to_character_own",
+                "Value" : "20.0000"
+            }
+        ]
+
+    }
+]

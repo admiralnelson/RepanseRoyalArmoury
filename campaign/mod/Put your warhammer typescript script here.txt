@@ -1,0 +1,7 @@
+If you need more APIs, create new Warhammer Typescript project, and copy following files from there:
+- campaign -> projectDir/campaign
+- runtime -> projectDir/runtime
+- typescript-globals.d.ts  - projectDir/
+- user-interface-header.d.ts - projectDir/
+- wahammer-header.d.ts - projectDir/
+- warhammer-cco-header.d.ts - projectDir/

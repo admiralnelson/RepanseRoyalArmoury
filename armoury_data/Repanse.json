@@ -1,7 +1,7 @@
 [
     {
         "SubtypeKey": "wh2_dlc14_brt_repanse",
-        "Skeleton": "humanoid01c",
+        "Skeleton": "humanoid01",
         "DefaultArmoryItemSet": "admiralnelson_armory_repanse_basic",
         "bCanUseShield": false
     }

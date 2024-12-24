@@ -1,0 +1,330 @@
+[
+    {
+        "AncillaryKey" : "wh_dlc03_anc_weapon_the_brass_cleaver",
+        "PowerLevel" : 15,
+        "Effects" : [
+            {
+                "EffectKey" : "wh_dlc03_effect_ability_enable_the_brass_cleaver",
+                "Scope" : "character_to_character_own",
+                "Value" : 1
+            },
+            {
+                "EffectKey" : "wh_main_effect_character_stat_weapon_strength",
+                "Scope" : "character_to_character_own",
+                "Value" : 4
+            }
+        ]
+    },
+    {
+        "AncillaryKey": "wh_main_anc_weapon_biting_blade",
+        "PowerLevel": 5,
+        "Effects": [
+            {
+                "EffectKey": "wh_main_effect_character_stat_ap_damage",
+                "Scope": "character_to_character_own",
+                "Value": 45
+            }
+        ]
+    },
+    {
+        "AncillaryKey": "wh_main_anc_weapon_fencers_blades",
+        "PowerLevel": 12,
+        "Effects": [
+            {
+                "EffectKey": "wh_main_effect_character_stat_melee_attack",
+                "Scope": "character_to_character_own",
+                "Value": 6
+            },
+            {
+                "EffectKey": "wh_main_effect_character_stat_melee_defence",
+                "Scope": "character_to_character_own",
+                "Value": 6
+            }
+        ]
+    },
+    {
+        "AncillaryKey": "wh_main_anc_weapon_giant_blade",
+        "PowerLevel": 25,
+        "Effects": [
+            {
+                "EffectKey": "wh_main_effect_character_stat_bonus_vs_infantry",
+                "Scope": "character_to_character_own",
+                "Value": 10
+            },
+            {
+                "EffectKey": "wh_main_effect_character_stat_weapon_strength",
+                "Scope": "character_to_character_own",
+                "Value": 15
+            }
+        ]
+    },
+    {
+        "AncillaryKey": "wh_main_anc_weapon_gold_sigil_sword",
+        "PowerLevel": 6,
+        "Effects": [
+            {
+                "EffectKey": "wh_main_effect_character_stat_melee_attack",
+                "Scope": "character_to_character_own",
+                "Value": 3
+            },
+            {
+                "EffectKey": "wh_main_effect_character_stat_melee_defence",
+                "Scope": "character_to_character_own",
+                "Value": 3
+            }
+        ]
+    },
+    {
+        "AncillaryKey": "wh_main_anc_weapon_obsidian_blade",
+        "PowerLevel": 30,
+        "Effects": [
+            {
+                "EffectKey": "wh_main_effect_character_stat_ap_damage",
+                "Scope": "character_to_character_own",
+                "Value": 100
+            },
+            {
+                "EffectKey": "wh_main_effect_character_stat_weapon_strength",
+                "Scope": "character_to_character_own",
+                "Value": 8
+            }
+        ]
+    },
+    {
+        "AncillaryKey": "wh_main_anc_weapon_ogre_blade",
+        "PowerLevel": 20,
+        "Effects": [
+            {
+                "EffectKey": "wh_main_effect_character_stat_weapon_strength",
+                "Scope": "character_to_character_own",
+                "Value": 18
+            }
+        ]
+    },
+    {
+        "AncillaryKey": "wh_main_anc_weapon_shrieking_blade",
+        "PowerLevel": 10,
+        "Effects": [
+            {
+                "EffectKey": "wh_main_effect_attribute_enable_causes_fear",
+                "Scope": "character_to_character_own",
+                "Value": 1
+            },
+            {
+                "EffectKey": "wh_main_effect_attribute_enable_causes_terror",
+                "Scope": "character_to_character_own",
+                "Value": 1
+            },
+            {
+                "EffectKey": "wh_main_effect_character_stat_enable_magic_attacks",
+                "Scope": "character_to_character_own",
+                "Value": 1
+            }
+        ]
+    },
+    {
+        "AncillaryKey": "wh_dlc07_anc_weapon_sword_of_the_ladys_champion",
+        "PowerLevel": 25,
+        "Effects": [
+            {
+                "EffectKey": "wh_main_effect_character_stat_enable_magic_attacks",
+                "Scope": "character_to_character_own",
+                "Value": 1
+            },
+            {
+                "EffectKey": "wh_main_effect_character_stat_melee_attack",
+                "Scope": "character_to_character_own",
+                "Value": 4
+            },
+            {
+                "EffectKey": "wh_main_effect_character_stat_weapon_strength",
+                "Scope": "character_to_character_own",
+                "Value": 6
+            }
+        ]
+    },
+    {
+        "AncillaryKey": "wh_main_anc_weapon_relic_sword",
+        "PowerLevel": 13,
+        "Effects": [
+            {
+                "EffectKey": "wh_main_effect_character_stat_weapon_strength",
+                "Scope": "character_to_character_own",
+                "Value": 10
+            }
+        ]
+    },
+    {
+        "AncillaryKey": "wh_main_anc_weapon_sword_of_anti-heroes",
+        "PowerLevel": 35,
+        "Effects": [
+            {
+                "EffectKey": "wh_main_effect_ability_enable_sword_of_anti-heroes",
+                "Scope": "character_to_character_own",
+                "Value": 1
+            },
+            {
+                "EffectKey": "wh_main_effect_character_stat_enable_magic_attacks",
+                "Scope": "character_to_character_own",
+                "Value": 1
+            },
+            {
+                "EffectKey": "wh_main_effect_character_stat_melee_attack",
+                "Scope": "character_to_character_own",
+                "Value": 5
+            }
+        ]
+    },
+    {
+        "AncillaryKey": "wh_main_anc_weapon_tormentor_sword",
+        "PowerLevel": 27,
+        "Effects": [
+            {
+                "EffectKey": "wh_main_effect_ability_enable_tormentor_sword",
+                "Scope": "character_to_character_own",
+                "Value": 1
+            },
+            {
+                "EffectKey": "wh_main_effect_character_stat_enable_magic_attacks",
+                "Scope": "character_to_character_own",
+                "Value": 1
+            }
+        ]
+    },
+    {
+        "AncillaryKey": "wh_main_anc_weapon_berserker_sword",
+        "PowerLevel": 21,
+        "Effects": [
+            {
+                "EffectKey": "wh_main_effect_character_stat_charge_bonus_add",
+                "Scope": "character_to_character_own",
+                "Value": 15
+            },
+            {
+                "EffectKey": "wh_main_effect_character_stat_weapon_strength",
+                "Scope": "character_to_character_own",
+                "Value": 5
+            }
+        ]
+    },
+    {
+        "AncillaryKey": "wh_main_anc_weapon_sword_of_bloodshed",
+        "PowerLevel": 22,
+        "Effects": [
+            {
+                "EffectKey": "wh_main_effect_character_stat_melee_attack",
+                "Scope": "character_to_character_own",
+                "Value": 12
+            },
+            {
+                "EffectKey": "wh_main_effect_character_stat_weapon_strength",
+                "Scope": "character_to_character_own",
+                "Value": 6
+            }
+        ]
+    },
+    {
+        "AncillaryKey": "wh_main_anc_weapon_sword_of_might",
+        "PowerLevel": 13,
+        "Effects": [
+            {
+                "EffectKey": "wh_main_effect_character_stat_weapon_strength",
+                "Scope": "character_to_character_own",
+                "Value": 8
+            }
+        ]
+    },
+    {
+        "AncillaryKey": "wh_main_anc_weapon_sword_of_battle",
+        "PowerLevel": 14,
+        "Effects": [
+            {
+                "EffectKey": "wh_main_effect_character_stat_melee_attack",
+                "Scope": "character_to_character_own",
+                "Value": 3
+            },
+            {
+                "EffectKey": "wh_main_effect_character_stat_weapon_strength",
+                "Scope": "character_to_character_own",
+                "Value": 4
+            }
+        ]
+    },    
+    {
+        "AncillaryKey": "wh_main_anc_weapon_sword_of_strife",
+        "PowerLevel": 16,
+        "Effects": [
+            {
+                "EffectKey": "wh_main_effect_character_stat_melee_attack",
+                "Scope": "character_to_character_own",
+                "Value": 7
+            },
+            {
+                "EffectKey": "wh_main_effect_character_stat_weapon_strength",
+                "Scope": "character_to_character_own",
+                "Value": 5
+            }
+        ]
+    },
+    {
+        "AncillaryKey": "wh_main_anc_weapon_sword_of_striking",
+        "PowerLevel": 11,
+        "Effects": [
+            {
+                "EffectKey": "wh_main_effect_character_stat_charge_bonus_add",
+                "Scope": "character_to_character_own",
+                "Value": 5
+            },
+            {
+                "EffectKey": "wh_main_effect_character_stat_melee_attack",
+                "Scope": "character_to_character_own",
+                "Value": 4
+            }
+        ]
+    },
+    {
+        "AncillaryKey": "wh_main_anc_weapon_sword_of_swift_slaying",
+        "PowerLevel": 12,
+        "Effects": [
+            {
+                "EffectKey": "wh_main_effect_character_stat_ap_damage",
+                "Scope": "character_to_character_own",
+                "Value": 10
+            },
+            {
+                "EffectKey": "wh_main_effect_character_stat_melee_attack",
+                "Scope": "character_to_character_own",
+                "Value": 4
+            }
+        ]
+    },
+
+    {
+        "AncillaryKey": "wh_main_anc_weapon_warrior_bane",
+        "PowerLevel": 12,
+        "Effects": [
+            {
+                "EffectKey": "wh_main_effect_ability_enable_warrior_bane",
+                "Scope": "character_to_character_own",
+                "Value": 1
+            },
+            {
+                "EffectKey": "wh_main_effect_character_stat_melee_defence",
+                "Scope": "character_to_character_own",
+                "Value": 10
+            }
+        ]
+    },
+
+    {
+        "AncillaryKey": "wh_dlc07_anc_weapon_sword_of_the_quest",
+        "PowerLevel": 8,
+        "Effects": [
+            {
+                "EffectKey": "wh_main_effect_character_stat_weapon_strength",
+                "Scope": "character_to_character_own",
+                "Value": 10
+            }
+        ]
+    }
+]

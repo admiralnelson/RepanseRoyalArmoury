@@ -1,0 +1,94 @@
+[
+    {
+        "AncillaryKey" : "admiralnelson_hand_of_retribution_mace_item_key",
+        "PowerLevel" : 35,
+        "Effects" : [
+            {
+                "EffectKey" : "wh_main_effect_character_stat_melee_attack",
+                "Scope" : "character_to_character_own",
+                "Value" : 10
+            },
+            {
+                "EffectKey" : "wh_main_effect_character_stat_weapon_strength",
+                "Scope" : "character_to_character_own",
+                "Value" : 20
+            },
+            {
+                "EffectKey" : "wh_main_effect_character_stat_bonus_vs_infantry",
+                "Scope" : "character_to_character_own",
+                "Value" : 20
+            },
+            {
+                "EffectKey": "wh_main_effect_character_stat_enable_magic_attacks",
+                "Scope": "character_to_character_own",
+                "Value": 1
+            }
+        ]
+    },
+    
+    {
+        "AncillaryKey" : "admiralnelson_spiked_fury_mace_item_key",
+        "PowerLevel" : 30,
+        "Effects" : [
+            {
+                "EffectKey" : "wh_main_effect_character_stat_melee_attack",
+                "Scope" : "character_to_character_own",
+                "Value" : 10
+            },
+            {
+                "EffectKey" : "wh_main_effect_character_stat_weapon_strength",
+                "Scope" : "character_to_character_own",
+                "Value" : 20
+            },
+            {
+                "EffectKey" : "wh_main_effect_character_stat_charge_bonus_add",
+                "Scope" : "character_to_character_own",
+                "Value" : 20
+            }
+        ]
+    },
+
+    {
+        "AncillaryKey" : "admiralnelson_verdant_cleaver_axe_item_key",
+        "PowerLevel" : 36,
+        "Effects" : [
+            {
+                "EffectKey" : "wh_main_effect_character_stat_weapon_strength",
+                "Scope" : "character_to_character_own",
+                "Value" : 20
+            }, 
+            {
+                "EffectKey": "wh2_main_effect_character_stat_weapon_strength_vs_vampire_counts",
+                "Scope": "character_to_character_own",
+                "Value": 10
+            },
+            {
+                "EffectKey": "wh_main_effect_character_stat_enable_magic_attacks",
+                "Scope": "character_to_character_own",
+                "Value": 1
+            },
+            {
+                "EffectKey": "wh2_main_effect_ability_enable_regeneration",
+                "Scope": "character_to_character_own",
+                "Value": 1
+            }
+        ]
+    },
+
+    {
+        "AncillaryKey" : "admiralnelson_executioner_axe_item_key",
+        "PowerLevel" : 25,
+        "Effects" : [
+            {
+                "EffectKey" : "wh_main_effect_character_stat_weapon_strength",
+                "Scope" : "character_to_character_own",
+                "Value" : 15
+            }, 
+            {
+                "EffectKey" : "wh_main_effect_character_stat_bonus_vs_infantry",
+                "Scope" : "character_to_character_own",
+                "Value" : 30
+            }
+        ]
+    }
+]

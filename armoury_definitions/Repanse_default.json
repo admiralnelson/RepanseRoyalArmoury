@@ -88,7 +88,7 @@
         "UiIcon": "assets/icons/basic/kitbasher_repanse_basic_weapon.png",
         "Thumbnail": null,
         "UnitCardThumbnail": null,
-        "VariantMesh": "variantmeshes\\wh_variantmodels\\hu1\\brt\\brt_props\\brt_repanse_sword_2h_01.wsmodel",
+        "VariantMesh": "variantmeshes/weapons/normal_basic_2handed_sword/normal_basic_2handed_sword.wsmodel",
         "VariantMeshDefinitionShouldCreate": true,
         "VariantMeshScale": 1,
         "VariantMeshMountScale": 1,

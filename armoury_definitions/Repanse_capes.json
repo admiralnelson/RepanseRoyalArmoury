@@ -1,0 +1,87 @@
+[
+    {
+        "ItemName": "kitbasher_repanse_paladin_cape_item_key",
+        "SubtypeKeys": [
+            "wh2_dlc14_brt_repanse"
+        ],
+        "LocalisedName": "The Paladin Cape",
+        "Description": "None",
+        "Type": "cape", 
+        "IsItemDefinedFromAncillary": true,
+        "AssociatedAncillaryKey": "admiralnelson_paladin_cape_item_key",
+        "AssociatedWithArmouryItemSet": null,
+        "Skeleton": "humanoid01",
+        "ItemCategory": "rare",
+        "UiIcon": "assets/icons/capes/kitbasher_repanse_paladin_cape_item_key.png",
+        "Thumbnail": null,
+        "UnitCardThumbnail": null,
+        "VariantMesh": "variantmeshes/capes/normal_cape_1/normal_cape_1.wsmodel",
+        "VariantMeshDefinitionShouldCreate": true,
+        "VariantMeshScale": 1,
+        "VariantMeshMountScale": 1,
+        "BattleAnimation": null,
+        "CampaignAnimation": null,
+        "OnlyCompatibleWithItem": null,
+        "AudioType": "audio_armour_type:plate",
+        "PreferencedItems": []
+        
+
+    },
+
+    {
+        "ItemName": "kitbasher_repanse_legacy_cape_item_key",
+        "SubtypeKeys": [
+            "wh2_dlc14_brt_repanse"
+        ],
+        "LocalisedName": "Count Bernard's Cape",
+        "Description": "Crafted from the wild and untamed mane of a beast long forgotten, this rugged cape once adorned the shoulders of the fearsome Grail Knight, Count Bernard. Its fur is thick and unyielding, offering both protection and a constant reminder of the Count's unwavering resolve and relentless ferocity in battle.",
+        "Type": "cape", 
+        "IsItemDefinedFromAncillary": true,
+        "AssociatedAncillaryKey": "admiralnelson_legacy_cape_item_key",
+        "AssociatedWithArmouryItemSet": null,
+        "Skeleton": "humanoid01",
+        "ItemCategory": "rare",
+        "UiIcon": "assets/icons/capes/kitbasher_repanse_legacy_cape_item_key.png",
+        "Thumbnail": null,
+        "UnitCardThumbnail": null,
+        "VariantMesh": "variantmeshes/capes/normal_cape_3/normal_cape_3.wsmodel",
+        "VariantMeshDefinitionShouldCreate": true,
+        "VariantMeshScale": 1,
+        "VariantMeshMountScale": 1,
+        "BattleAnimation": null,
+        "CampaignAnimation": null,
+        "OnlyCompatibleWithItem": null,
+        "AudioType": "audio_armour_type:plate",
+        "PreferencedItems": []
+        
+
+    },
+
+    {
+        "ItemName": "kitbasher_repanse_grail_knight_cape_item_key",
+        "SubtypeKeys": [
+            "wh2_dlc14_brt_repanse"
+        ],
+        "LocalisedName": "The Cape of the Grail's Grace",
+        "Description": "This ornate cape, adorned with delicate floral patterns and bordered by a cross pattern symbolizing the Grail's holy purpose, was once worn by a revered Grail Knight.",
+        "Type": "cape", 
+        "IsItemDefinedFromAncillary": true,
+        "AssociatedAncillaryKey": "admiralnelson_grail_knight_cape_item_key",
+        "AssociatedWithArmouryItemSet": null,
+        "Skeleton": "humanoid01",
+        "ItemCategory": "uncommon",
+        "UiIcon": "assets/icons/capes/kitbasher_repanse_grail_knight_cape_item_key.png",
+        "Thumbnail": null,
+        "UnitCardThumbnail": null,
+        "VariantMesh": "variantmeshes/capes/normal_cape_2/normal_cape_2.wsmodel",
+        "VariantMeshDefinitionShouldCreate": true,
+        "VariantMeshScale": 1,
+        "VariantMeshMountScale": 1,
+        "BattleAnimation": null,
+        "CampaignAnimation": null,
+        "OnlyCompatibleWithItem": null,
+        "AudioType": "audio_armour_type:plate",
+        "PreferencedItems": []
+        
+    }
+]

@@ -1,0 +1,268 @@
+[
+    {
+        "ItemName": "repanse_wh_dlc07_anc_armour_armour_of_the_midsummer_sun",
+        "SubtypeKeys": [
+            "wh2_dlc14_brt_repanse"
+        ],
+        "LocalisedName": "Midsummer Sun",
+        "Description": "None",
+        "Type": "torso", 
+        "IsItemDefinedFromAncillary": true,
+        "AssociatedAncillaryKey": "wh_dlc07_anc_armour_armour_of_the_midsummer_sun",
+        "AssociatedWithArmouryItemSet": null,
+        "Skeleton": "humanoid01",
+        "ItemCategory": "uncommon",
+        "UiIcon": "assets/icons/repanse_armoury/repanse_wh_dlc07_anc_armour_armour_of_the_midsummer_sun.png",
+        "Thumbnail": null,
+        "UnitCardThumbnail": null,
+        "VariantMesh": "variantmeshes/armour_torso/normal_wh_dlc07_anc_armour_armour_of_the_midsummer_sun/normal_wh_dlc07_anc_armour_armour_of_the_midsummer_sun.wsmodel",
+        "VariantMeshDefinitionShouldCreate": true,
+        "VariantMeshScale": 1,
+        "VariantMeshMountScale": 1,
+        "BattleAnimation": null,
+        "CampaignAnimation": null,
+        "OnlyCompatibleWithItem": null,
+        "AudioType": "audio_armour_type:plate",
+        "PreferencedItems": [
+            "admiralnelson_repanse_gilded_greaves_item_key"
+        ]
+        
+
+    },
+    {
+        "ItemName": "repanse_wh_dlc07_anc_armour_gilded_cuirass",
+        "SubtypeKeys": [
+            "wh2_dlc14_brt_repanse"
+        ],
+        "LocalisedName": "Gilded Cuirass",
+        "Description": "None",
+        "Type": "torso", 
+        "IsItemDefinedFromAncillary": true,
+        "AssociatedAncillaryKey": "wh_dlc07_anc_armour_gilded_cuirass",
+        "AssociatedWithArmouryItemSet": null,
+        "Skeleton": "humanoid01",
+        "ItemCategory": "rare",
+        "UiIcon": "assets/icons/repanse_armoury/repanse_wh_dlc07_anc_armour_gilded_cuirass.png",
+        "Thumbnail": null,
+        "UnitCardThumbnail": null,
+        "VariantMesh": "variantmeshes/armour_torso/normal_wh_dlc07_anc_armour_gilded_cuirass/normal_wh_dlc07_anc_armour_gilded_cuirass.wsmodel",
+        "VariantMeshDefinitionShouldCreate": true,
+        "VariantMeshScale": 1,
+        "VariantMeshMountScale": 1,
+        "BattleAnimation": null,
+        "CampaignAnimation": null,
+        "OnlyCompatibleWithItem": null,
+        "AudioType": "audio_armour_type:plate",
+        "PreferencedItems": [
+            "admiralnelson_repanse_gilded_greaves_item_key"
+        ]
+        
+
+    },
+    {
+        "ItemName": "repanse_wh_main_anc_armour_armour_of_destiny",
+        "SubtypeKeys": [
+            "wh2_dlc14_brt_repanse"
+        ],
+        "LocalisedName": "The Armour of Destiny",
+        "Description": "None",
+        "Type": "torso", 
+        "IsItemDefinedFromAncillary": true,
+        "AssociatedAncillaryKey": "wh_main_anc_armour_armour_of_destiny",
+        "AssociatedWithArmouryItemSet": null,
+        "Skeleton": "humanoid01",
+        "ItemCategory": "rare",
+        "UiIcon": "assets/icons/repanse_armoury/repanse_wh_main_anc_armour_armour_of_destiny.png",
+        "Thumbnail": null,
+        "UnitCardThumbnail": null,
+        "VariantMesh": "variantmeshes/armour_torso/normal_wh_main_anc_armour_armour_of_destiny/normal_wh_main_anc_armour_armour_of_destiny.wsmodel",
+        "VariantMeshDefinitionShouldCreate": true,
+        "VariantMeshScale": 1,
+        "VariantMeshMountScale": 1,
+        "BattleAnimation": null,
+        "CampaignAnimation": null,
+        "OnlyCompatibleWithItem": null,
+        "AudioType": "audio_armour_type:plate",
+        "PreferencedItems": [
+            "admiralnelson_repanse_gilded_greaves_item_key"
+        ]
+        
+    },
+    {
+        "ItemName": "admiralnelson_repanse_armour_of_revered_tabard_item_key",
+        "SubtypeKeys": [
+            "wh2_dlc14_brt_repanse"
+        ],
+        "LocalisedName": "The Revered Tabard of Saint Blanc",
+        "Description": "None",
+        "Type": "torso", 
+        "IsItemDefinedFromAncillary": true,
+        "AssociatedAncillaryKey": "admiralnelson_armour_of_revered_tabard_item_key",
+        "AssociatedWithArmouryItemSet": null,
+        "Skeleton": "humanoid01",
+        "ItemCategory": "uncommon",
+        "UiIcon": "assets/icons/repanse_armoury/admiralnelson_repanse_armour_of_revered_tabard_item_key.png",
+        "Thumbnail": null,
+        "UnitCardThumbnail": null,
+        "VariantMesh": "variantmeshes/armour_torso/normal_wh_main_anc_armour_armour_of_revered_tabard/normal_wh_main_anc_armour_armour_of_revered_tabard.wsmodel",
+        "VariantMeshDefinitionShouldCreate": true,
+        "VariantMeshScale": 1,
+        "VariantMeshMountScale": 1,
+        "BattleAnimation": null,
+        "CampaignAnimation": null,
+        "OnlyCompatibleWithItem": null,
+        "AudioType": "audio_armour_type:plate",
+        "PreferencedItems": []
+        
+
+    },
+
+
+    
+
+    {
+        "ItemName": "repanse_wh_dlc07_anc_armour_cuirass_of_fortune",
+        "SubtypeKeys": [
+            "wh2_dlc14_brt_repanse"
+        ],
+        "LocalisedName": "Cuirass of Fortune",
+        "Description": "None",
+        "Type": "torso", 
+        "IsItemDefinedFromAncillary": true,
+        "AssociatedAncillaryKey": "wh_dlc07_anc_armour_cuirass_of_fortune",
+        "AssociatedWithArmouryItemSet": null,
+        "Skeleton": "humanoid01",
+        "ItemCategory": "uncommon",
+        "UiIcon": "assets/icons/repanse_armoury/repanse_wh_dlc07_anc_armour_cuirass_of_fortune.png",
+        "Thumbnail": null,
+        "UnitCardThumbnail": null,
+        "VariantMesh": "variantmeshes/armour_torso/normal_wh_dlc07_anc_armour_cuirass_of_fortune/normal_wh_dlc07_anc_armour_cuirass_of_fortune.wsmodel",
+        "VariantMeshDefinitionShouldCreate": true,
+        "VariantMeshScale": 1,
+        "VariantMeshMountScale": 1,
+        "BattleAnimation": null,
+        "CampaignAnimation": null,
+        "OnlyCompatibleWithItem": null,
+        "AudioType": "audio_armour_type:plate",
+        "PreferencedItems": []
+        
+
+    },
+
+    {
+        "ItemName": "repanse_wh_main_anc_armour_armour_of_fortune",
+        "SubtypeKeys": [
+            "wh2_dlc14_brt_repanse"
+        ],
+        "LocalisedName": "The Armour of Fortune",
+        "Description": "None",
+        "Type": "torso", 
+        "IsItemDefinedFromAncillary": true,
+        "AssociatedAncillaryKey": "wh_main_anc_armour_armour_of_fortune",
+        "AssociatedWithArmouryItemSet": null,
+        "Skeleton": "humanoid01",
+        "ItemCategory": "uncommon",
+        "UiIcon": "assets/icons/repanse_armoury/repanse_wh_main_anc_armour_armour_of_fortune.png",
+        "Thumbnail": null,
+        "UnitCardThumbnail": null,
+        "VariantMesh": "variantmeshes/armour_torso/normal_wh_main_anc_armour_armour_of_fortune/normal_wh_main_anc_armour_armour_of_fortune.wsmodel",
+        "VariantMeshDefinitionShouldCreate": true,
+        "VariantMeshScale": 1,
+        "VariantMeshMountScale": 1,
+        "BattleAnimation": null,
+        "CampaignAnimation": null,
+        "OnlyCompatibleWithItem": null,
+        "AudioType": "audio_armour_type:plate",
+        "PreferencedItems": []
+        
+
+    },
+
+    {
+        "ItemName": "repanse_wh_main_anc_armour_armour_of_silvered_steel",
+        "SubtypeKeys": [
+            "wh2_dlc14_brt_repanse"
+        ],
+        "LocalisedName": "The Silvered Steel",
+        "Description": "None",
+        "Type": "torso", 
+        "IsItemDefinedFromAncillary": true,
+        "AssociatedAncillaryKey": "wh_main_anc_armour_armour_of_silvered_steel",
+        "AssociatedWithArmouryItemSet": null,
+        "Skeleton": "humanoid01",
+        "ItemCategory": "common",
+        "UiIcon": "assets/icons/repanse_armoury/repanse_wh_main_anc_armour_armour_of_silvered_steel.png",
+        "Thumbnail": null,
+        "UnitCardThumbnail": null,
+        "VariantMesh": "variantmeshes/armour_torso/normal_wh_main_anc_armour_armour_of_silvered_steel/normal_wh_main_anc_armour_armour_of_silvered_steel.wsmodel",
+        "VariantMeshDefinitionShouldCreate": true,
+        "VariantMeshScale": 1,
+        "VariantMeshMountScale": 1,
+        "BattleAnimation": null,
+        "CampaignAnimation": null,
+        "OnlyCompatibleWithItem": null,
+        "AudioType": "audio_armour_type:plate",
+        "PreferencedItems": []
+        
+
+    },
+
+    {
+        "ItemName": "repanse_wh_main_anc_armour_gamblers_armour",
+        "SubtypeKeys": [
+            "wh2_dlc14_brt_repanse"
+        ],
+        "LocalisedName": "The Gambler's Armour",
+        "Description": "None",
+        "Type": "torso", 
+        "IsItemDefinedFromAncillary": true,
+        "AssociatedAncillaryKey": "wh_main_anc_armour_gamblers_armour",
+        "AssociatedWithArmouryItemSet": null,
+        "Skeleton": "humanoid01",
+        "ItemCategory": "uncommon",
+        "UiIcon": "assets/icons/repanse_armoury/repanse_wh_main_anc_armour_gamblers_armour.png",
+        "Thumbnail": null,
+        "UnitCardThumbnail": null,
+        "VariantMesh": "variantmeshes/armour_torso/normal_wh_main_anc_armour_armour_of_gambler/normal_wh_main_anc_armour_armour_of_gambler.wsmodel",
+        "VariantMeshDefinitionShouldCreate": true,
+        "VariantMeshScale": 1,
+        "VariantMeshMountScale": 1,
+        "BattleAnimation": null,
+        "CampaignAnimation": null,
+        "OnlyCompatibleWithItem": null,
+        "AudioType": "audio_armour_type:plate",
+        "PreferencedItems": []
+        
+
+    },
+
+    {
+        "ItemName": "repanse_wh_main_anc_armour_glittering_scales",
+        "SubtypeKeys": [
+            "wh2_dlc14_brt_repanse"
+        ],
+        "LocalisedName": "The Gliterring Scales",
+        "Description": "None",
+        "Type": "torso", 
+        "IsItemDefinedFromAncillary": true,
+        "AssociatedAncillaryKey": "wh_main_anc_armour_glittering_scales",
+        "AssociatedWithArmouryItemSet": null,
+        "Skeleton": "humanoid01",
+        "ItemCategory": "rare",
+        "UiIcon": "assets/icons/repanse_armoury/repanse_wh_main_anc_armour_glittering_scales.png",
+        "Thumbnail": null,
+        "UnitCardThumbnail": null,
+        "VariantMesh": "variantmeshes/armour_torso/normal_wh_main_anc_armour_glittering_scales/normal_wh_main_anc_armour_glittering_scales.wsmodel",
+        "VariantMeshDefinitionShouldCreate": true,
+        "VariantMeshScale": 1,
+        "VariantMeshMountScale": 1,
+        "BattleAnimation": null,
+        "CampaignAnimation": null,
+        "OnlyCompatibleWithItem": null,
+        "AudioType": "audio_armour_type:plate",
+        "PreferencedItems": []
+        
+
+    }
+
+]

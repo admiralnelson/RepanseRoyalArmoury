@@ -1,0 +1,113 @@
+[
+    {
+        "ItemName": "admiralnelson_repanse_gilded_greaves_item_key",
+        "SubtypeKeys": [
+            "wh2_dlc14_brt_repanse"
+        ],
+        "LocalisedName": "Gilded Greaves",
+        "Description": "Forged by the finest Bretonnian smiths, the Gilded Greaves are a symbol of nobility and valor. These masterfully crafted leg armors are adorned with intricate designs and gilded accents, providing unparalleled protection and a majestic appearance on the battlefield. Worn by the most esteemed knights, they are a testament to the chivalric ideals of Bretonnia",
+        "Type": "legs", 
+        "IsItemDefinedFromAncillary": true,
+        "AssociatedAncillaryKey": "admiralnelson_gilded_greaves_item_key",
+        "AssociatedWithArmouryItemSet": null,
+        "Skeleton": "humanoid01",
+        "ItemCategory": "rare",
+        "UiIcon": "assets/icons/repanse_legs/admiralnelson_repanse_gilded_greaves_item_key.png",
+        "Thumbnail": null,
+        "UnitCardThumbnail": null,
+        "VariantMesh": "variantmeshes/armour_legs/normal_legs_3/normal_legs_3.wsmodel",
+        "VariantMeshDefinitionShouldCreate": true,
+        "VariantMeshScale": 1,
+        "VariantMeshMountScale": 1,
+        "BattleAnimation": null,
+        "CampaignAnimation": null,
+        "OnlyCompatibleWithItem": null,
+        "AudioType": "audio_armour_type:plate",
+        "PreferencedItems": []
+        
+
+    },
+    {
+        "ItemName": "admiralnelson_repanse_steel_greaves_with_gold_trim_item_key",
+        "SubtypeKeys": [
+            "wh2_dlc14_brt_repanse"
+        ],
+        "LocalisedName": "Simple Gilded Greaves",
+        "Description": "These finely crafted greaves are adorned with gilded fleur-de-lis emblems on the kneecaps, symbolizing nobility and valor.",
+        "Type": "legs", 
+        "IsItemDefinedFromAncillary": true,
+        "AssociatedAncillaryKey": "admiralnelson_steel_greaves_with_gold_trim_item_key",
+        "AssociatedWithArmouryItemSet": null,
+        "Skeleton": "humanoid01",
+        "ItemCategory": "uncommon",
+        "UiIcon": "assets/icons/repanse_legs/admiralnelson_repanse_steel_greaves_with_gold_trim_item_key.png",
+        "Thumbnail": null,
+        "UnitCardThumbnail": null,
+        "VariantMesh": "variantmeshes\\armour_legs\\normal_legs_2\\normal_legs_2.wsmodel",
+        "VariantMeshDefinitionShouldCreate": true,
+        "VariantMeshScale": 1,
+        "VariantMeshMountScale": 1,
+        "BattleAnimation": null,
+        "CampaignAnimation": null,
+        "OnlyCompatibleWithItem": null,
+        "AudioType": "audio_armour_type:plate",
+        "PreferencedItems": []
+        
+    },
+    {
+        "ItemName": "admiralnelson_repanse_silvered_greaves_item_key",
+        "SubtypeKeys": [
+            "wh2_dlc14_brt_repanse"
+        ],
+        "LocalisedName": "Gilded Greaves",
+        "Description": "None",
+        "Type": "legs", 
+        "IsItemDefinedFromAncillary": true,
+        "AssociatedAncillaryKey": "admiralnelson_silvered_greaves_item_key",
+        "AssociatedWithArmouryItemSet": null,
+        "Skeleton": "humanoid01",
+        "ItemCategory": "common",
+        "UiIcon": "assets/icons/repanse_legs/admiralnelson_repanse_silvered_greaves_item_key.png",
+        "Thumbnail": null,
+        "UnitCardThumbnail": null,
+        "VariantMesh": "variantmeshes/armour_legs/normal_legs_1/normal_legs_1.wsmodel",
+        "VariantMeshDefinitionShouldCreate": true,
+        "VariantMeshScale": 1,
+        "VariantMeshMountScale": 1,
+        "BattleAnimation": null,
+        "CampaignAnimation": null,
+        "OnlyCompatibleWithItem": null,
+        "AudioType": "audio_armour_type:plate",
+        "PreferencedItems": []
+        
+
+    },
+    {
+        "ItemName": "admiralnelson_repanse_ornate_steel_greaves_item_key",
+        "SubtypeKeys": [
+            "wh2_dlc14_brt_repanse"
+        ],
+        "LocalisedName": "Old Knight Greaves",
+        "Description": "The deep, burnished steel is accentuated with fine golden inlays, creating a pattern that is both regal and intimidating.",
+        "Type": "legs", 
+        "IsItemDefinedFromAncillary": true,
+        "AssociatedAncillaryKey": "admiralnelson_ornate_steel_greaves_item_key",
+        "AssociatedWithArmouryItemSet": null,
+        "Skeleton": "humanoid01",
+        "ItemCategory": "uncommon",
+        "UiIcon": "assets/icons/repanse_legs/admiralnelson_repanse_ornate_steel_greaves_item_key.png",
+        "Thumbnail": null,
+        "UnitCardThumbnail": null,
+        "VariantMesh": "variantmeshes\\armour_legs\\normal_legs_4\\normal_legs_4.wsmodel",
+        "VariantMeshDefinitionShouldCreate": true,
+        "VariantMeshScale": 1,
+        "VariantMeshMountScale": 1,
+        "BattleAnimation": null,
+        "CampaignAnimation": null,
+        "OnlyCompatibleWithItem": null,
+        "AudioType": "audio_armour_type:plate",
+        "PreferencedItems": []
+        
+
+    }
+]

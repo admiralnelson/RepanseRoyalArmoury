@@ -1,0 +1,44 @@
+[
+    {
+        "AncillaryKey" : "admiralnelson_armour_of_revered_tabard_item_key",
+        "PowerLevel" : 29,
+        "Effects" : [
+            {
+                "EffectKey" : "wh_main_effect_character_stat_armour",
+                "Scope" : "character_to_character_own",
+                "Value" : 7
+            },
+            {
+                "EffectKey" : "wh_main_effect_character_stat_physical_resistance",
+                "Scope" : "character_to_character_own",
+                "Value" : 10
+            },
+            {
+                "EffectKey" : "wh_main_effect_character_stat_bonus_vs_infantry",
+                "Scope" : "character_to_character_own",
+                "Value" : 8
+            }
+        ]
+    },
+    {
+        "AncillaryKey" : "admiralnelson_questing_knight_tabard_item_key",
+        "PowerLevel" : 29,
+        "Effects" : [
+            {
+                "EffectKey" : "wh_main_effect_character_stat_armour",
+                "Scope" : "character_to_character_own",
+                "Value" : 5
+            },
+            {
+                "EffectKey" : "wh_main_effect_character_stat_physical_resistance",
+                "Scope" : "character_to_character_own",
+                "Value" : 30
+            },
+            {
+                "EffectKey" : "wh_main_effect_character_stat_melee_attack",
+                "Scope" : "character_to_character_own",
+                "Value" : 15
+            }
+        ]
+    }
+]

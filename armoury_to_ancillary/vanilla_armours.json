@@ -1,0 +1,145 @@
+[
+    {
+        "AncillaryKey" : "wh_dlc07_anc_armour_armour_of_the_midsummer_sun",
+        "PowerLevel" : 20,
+        "Effects" : [
+            {
+                "EffectKey" : "wh_main_effect_character_stat_armour",
+                "Scope" : "character_to_character_own",
+                "Value" : 7
+            },
+            {
+                "EffectKey" : "wh_main_effect_character_stat_melee_defence",
+                "Scope" : "character_to_character_own",
+                "Value" : 7
+            }
+        ]
+    },
+    {
+        "AncillaryKey" : "wh_dlc07_anc_armour_gilded_cuirass",
+        "PowerLevel" : 30,
+        "Effects" : [
+            {
+                "EffectKey" : "wh_main_effect_character_stat_armour",
+                "Scope" : "character_to_character_own",
+                "Value" : 8
+            },
+            {
+                "EffectKey" : "wh_main_effect_character_stat_melee_defence",
+                "Scope" : "character_to_character_own",
+                "Value" : 8
+            },
+            {
+                "EffectKey" : "wh2_main_effect_ability_enable_regeneration",
+                "Scope" : "character_to_character_own",
+                "Value" : 1
+            }
+        ]
+    },
+    {
+        "AncillaryKey" : "wh_main_anc_armour_armour_of_destiny",
+        "PowerLevel" : 25,
+        "Effects" : [
+            {
+                "EffectKey" : "wh_main_effect_character_stat_armour",
+                "Scope" : "character_to_character_own",
+                "Value" : 5
+            },
+            {
+                "EffectKey" : "wh_main_effect_character_stat_ward_save",
+                "Scope" : "character_to_character_own",
+                "Value" : 10
+            },
+            {
+                "EffectKey" : "wh_main_effect_character_stat_physical_resistance",
+                "Scope" : "character_to_character_own",
+                "Value" : 5
+            }
+        ]
+    },
+    {
+        "AncillaryKey" : "wh_dlc07_anc_armour_cuirass_of_fortune",
+        "PowerLevel" : 28,
+        "Effects" : [
+            {
+                "EffectKey" : "wh_main_effect_character_stat_armour",
+                "Scope" : "character_to_character_own",
+                "Value" : 5
+            },
+            {
+                "EffectKey" : "wh_main_effect_character_stat_weapon_strength",
+                "Scope" : "character_to_character_own",
+                "Value" : 5
+            }
+        ]
+    },
+    {
+        "AncillaryKey" : "wh_main_anc_armour_armour_of_fortune",
+        "PowerLevel" : 22,
+        "Effects" : [
+            {
+                "EffectKey" : "wh_main_effect_character_stat_armour",
+                "Scope" : "character_to_character_own",
+                "Value" : 5
+            },
+            {
+                "EffectKey" : "wh_main_effect_character_stat_physical_resistance",
+                "Scope" : "character_to_character_own",
+                "Value" : 5
+            },
+            {
+                "EffectKey" : "wh_main_effect_character_stat_ward_save",
+                "Scope" : "character_to_character_own",
+                "Value" : 5
+            }
+        ]
+    },    
+    {
+        "AncillaryKey" : "wh_main_anc_armour_armour_of_silvered_steel",
+        "PowerLevel" : 21,
+        "Effects" : [
+            {
+                "EffectKey" : "wh_main_effect_character_stat_armour",
+                "Scope" : "character_to_character_own",
+                "Value" : 20
+            }
+        ]
+    },
+    {
+        "AncillaryKey" : "wh_main_anc_armour_gamblers_armour",
+        "PowerLevel" : 24,
+        "Effects" : [
+            {
+                "EffectKey" : "wh_main_effect_character_stat_armour",
+                "Scope" : "character_to_character_own",
+                "Value" : 8
+            },
+            {
+                "EffectKey" : "wh_main_effect_character_stat_ward_save",
+                "Scope" : "character_to_character_own",
+                "Value" : 8
+            }
+        ]
+    },
+    {
+        "AncillaryKey" : "wh_main_anc_armour_glittering_scales",
+        "PowerLevel" : 28,
+        "Effects" : [
+            {
+                "EffectKey" : "wh_main_effect_character_stat_armour",
+                "Scope" : "character_to_character_own",
+                "Value" : 4
+            },
+            {
+                "EffectKey" : "wh_main_effect_character_stat_melee_defence",
+                "Scope" : "character_to_character_own",
+                "Value" : 5
+            },
+            {
+                "EffectKey" : "wh_main_effect_ability_enable_glittering_scales",
+                "Scope" : "character_to_character_own",
+                "Value" : 1
+            }
+        ]
+    }
+]

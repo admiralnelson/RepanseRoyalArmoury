@@ -1,0 +1,71 @@
+[
+
+    {
+        "AncillaryKey" : "admiralnelson_gilded_greaves_item_key",
+        "comment": "legs3",
+        "PowerLevel" : 40,
+        "Effects" : [
+            {
+                "EffectKey" : "wh_main_effect_character_stat_armour",
+                "Scope" : "character_to_character_own",
+                "Value" : 10
+            },
+            {
+                "EffectKey" : "wh_main_effect_character_stat_physical_resistance",
+                "Scope" : "character_to_character_own",
+                "Value" : 10
+            }
+        ]
+    },
+    {
+        "AncillaryKey" : "admiralnelson_silvered_greaves_item_key",
+        "comment": "legs1",
+        "PowerLevel" : 20,
+        "Effects" : [
+            {
+                "EffectKey" : "wh_main_effect_character_stat_armour",
+                "Scope" : "character_to_character_own",
+                "Value" : 8
+            },
+            {
+                "EffectKey" : "wh_main_effect_character_stat_leadership",
+                "Scope" : "character_to_character_own",
+                "Value" : 3
+            }
+        ]
+    },
+    {
+        "AncillaryKey" : "admiralnelson_steel_greaves_with_gold_trim_item_key",
+        "comment": "legs2",
+        "PowerLevel" : 25,
+        "Effects" : [
+            {
+                "EffectKey" : "wh_main_effect_character_stat_armour",
+                "Scope" : "character_to_character_own",
+                "Value" : 7
+            },
+            {
+                "EffectKey" : "wh_main_effect_character_stat_melee_defence",
+                "Scope" : "character_to_character_own",
+                "Value" : 3
+            }
+        ]
+    },
+    {
+        "AncillaryKey" : "admiralnelson_ornate_steel_greaves_item_key",
+        "comment": "legs4",
+        "PowerLevel" : 30,
+        "Effects" : [
+            {
+                "EffectKey" : "wh_main_effect_character_stat_armour",
+                "Scope" : "character_to_character_own",
+                "Value" : 10
+            },
+            {
+                "EffectKey" : "wh_main_effect_character_stat_melee_defence",
+                "Scope" : "character_to_character_own",
+                "Value" : 3
+            }
+        ]
+    }
+]

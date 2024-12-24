@@ -1,0 +1,98 @@
+[
+    {
+        "AncillaryKey" : "admiralnelson_blessed_armor_of_the_lady",
+        "PowerLevel" : 300,
+        "Effects" : [
+            {
+                "EffectKey" : "wh_main_effect_character_stat_armour",
+                "Scope" : "character_to_character_own",
+                "Value" : 10
+            },
+            {
+                "EffectKey" : "wh_main_effect_character_stat_physical_resistance",
+                "Scope" : "character_to_character_own",
+                "Value" : 10
+            },
+            {
+                "EffectKey" : "wh_main_effect_character_stat_melee_defence",
+                "Scope" : "character_to_character_own",
+                "Value" : 5
+            },
+            {
+                "EffectKey" : "wh_main_effect_character_stat_leadership",
+                "Scope" : "character_to_character_own",
+                "Value" : 8
+            }
+        ]
+    },
+    {
+        "AncillaryKey" : "admiralnelson_pauldrons_of_the_lady",
+        "PowerLevel" : 300,
+        "Effects" : [
+            {
+                "EffectKey" : "wh_main_effect_character_stat_armour",
+                "Scope" : "character_to_character_own",
+                "Value" : 5
+            },
+            {
+                "EffectKey" : "wh_main_effect_character_stat_magic_resistance",
+                "Scope" : "character_to_character_own",
+                "Value" : 25
+            },
+            {
+                "EffectKey" : "wh_main_effect_character_stat_melee_defence",
+                "Scope" : "character_to_character_own",
+                "Value" : 3
+            },
+            {
+                "EffectKey" : "wh_main_effect_character_stat_leadership",
+                "Scope" : "character_to_character_own",
+                "Value" : 4
+            }
+        ]
+    },
+    {
+        "AncillaryKey" : "admiralnelson_greaves_of_the_lady",
+        "PowerLevel" : 300,
+        "Effects" : [
+            {
+                "EffectKey" : "wh_main_effect_character_stat_armour",
+                "Scope" : "character_to_character_own",
+                "Value" : 8
+            },
+            {
+                "EffectKey" : "wh_main_effect_character_stat_physical_resistance",
+                "Scope" : "character_to_character_own",
+                "Value" : 5
+            },
+            {
+                "EffectKey" : "wh_main_effect_character_stat_melee_defence",
+                "Scope" : "character_to_character_own",
+                "Value" : 6
+            },
+            {
+                "EffectKey" : "wh_main_effect_character_stat_leadership",
+                "Scope" : "character_to_character_own",
+                "Value" : 5
+            }
+        ]
+    },
+    {
+        "AncillaryKey" : "wh2_dlc14_anc_weapon_sword_of_lyonesse",
+        "PowerLevel" : 300,
+        "Effects" : [
+            {
+                "EffectKey" : "wh2_dlc14_effect_ability_enable_sword_of_lyonesse",
+                "Scope" : "character_to_character_own",
+                "Value" : 1
+            },
+            {
+                "EffectKey" : "wh_main_effect_force_stat_magic_resistance",
+                "Scope" : "region_to_force_enemy",
+                "Value" : -15
+            }
+        ]
+    }
+
+    
+]

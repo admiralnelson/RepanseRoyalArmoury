@@ -4,8 +4,8 @@
         "SubtypeKeys": [
             "wh2_dlc14_brt_repanse"
         ],
-        "LocalisedName": "Midsummer Sun",
-        "Description": "None",
+        "LocalisedName": "Armour of the Midsummer Sun",
+        "Description": "These enchanted plates channel sunlight, so beams of light burst forth to blind the foe as the wearer approaches.",
         "Type": "torso", 
         "IsItemDefinedFromAncillary": true,
         "AssociatedAncillaryKey": "wh_dlc07_anc_armour_armour_of_the_midsummer_sun",
@@ -35,7 +35,7 @@
             "wh2_dlc14_brt_repanse"
         ],
         "LocalisedName": "Gilded Cuirass",
-        "Description": "None",
+        "Description": "This breastplate, inscribed with the Grail Vow, knits otherwise mortal wounds together so its wearer can fight another day.",
         "Type": "torso", 
         "IsItemDefinedFromAncillary": true,
         "AssociatedAncillaryKey": "wh_dlc07_anc_armour_gilded_cuirass",
@@ -65,7 +65,7 @@
             "wh2_dlc14_brt_repanse"
         ],
         "LocalisedName": "The Armour of Destiny",
-        "Description": "None",
+        "Description": "The Armour of Destiny is worn by a great Hero among every generation, their fate entwined with the ensorcelled suit.",
         "Type": "torso", 
         "IsItemDefinedFromAncillary": true,
         "AssociatedAncillaryKey": "wh_main_anc_armour_armour_of_destiny",
@@ -94,7 +94,7 @@
             "wh2_dlc14_brt_repanse"
         ],
         "LocalisedName": "The Revered Tabard of Saint Blanc",
-        "Description": "None",
+        "Description": "This sacred tabard, woven with the blessings of Saint Blanc, has seen countless battles fought in the name of faith. Its threads, infused with divine protection, offer its wearer unparalleled resolve and the favor of the Lady herself.",
         "Type": "torso", 
         "IsItemDefinedFromAncillary": true,
         "AssociatedAncillaryKey": "admiralnelson_armour_of_revered_tabard_item_key",
@@ -126,7 +126,7 @@
             "wh2_dlc14_brt_repanse"
         ],
         "LocalisedName": "Cuirass of Fortune",
-        "Description": "None",
+        "Description": "Although madder than a bag of exceptionally angry wasps, Gurdilloue forged this breastplate to instil luck and accuracy in its wearer.",
         "Type": "torso", 
         "IsItemDefinedFromAncillary": true,
         "AssociatedAncillaryKey": "wh_dlc07_anc_armour_cuirass_of_fortune",
@@ -155,7 +155,7 @@
             "wh2_dlc14_brt_repanse"
         ],
         "LocalisedName": "The Armour of Fortune",
-        "Description": "None",
+        "Description": "Those who don the Armour of Fortune seem to have the favour of Ranald, able to parry the lethal blow with a lucky deflection.",
         "Type": "torso", 
         "IsItemDefinedFromAncillary": true,
         "AssociatedAncillaryKey": "wh_main_anc_armour_armour_of_fortune",
@@ -184,7 +184,7 @@
             "wh2_dlc14_brt_repanse"
         ],
         "LocalisedName": "The Silvered Steel",
-        "Description": "None",
+        "Description": "The gleaming, all-encasing suit of silver is light but still grants the wearer a heavy degree of protection - surely, the hallmarks of Elven artifice.",
         "Type": "torso", 
         "IsItemDefinedFromAncillary": true,
         "AssociatedAncillaryKey": "wh_main_anc_armour_armour_of_silvered_steel",
@@ -213,7 +213,7 @@
             "wh2_dlc14_brt_repanse"
         ],
         "LocalisedName": "The Gambler's Armour",
-        "Description": "None",
+        "Description": "Ranald, the God of Thieves, Tricksters and Gamblers has blessed the armour and those who are willing to take a chance.",
         "Type": "torso", 
         "IsItemDefinedFromAncillary": true,
         "AssociatedAncillaryKey": "wh_main_anc_armour_gamblers_armour",
@@ -242,7 +242,7 @@
             "wh2_dlc14_brt_repanse"
         ],
         "LocalisedName": "The Gliterring Scales",
-        "Description": "None",
+        "Description": "Such is the shine upon every scale in this resplendent mail that the foe can't help but be dazzled.",
         "Type": "torso", 
         "IsItemDefinedFromAncillary": true,
         "AssociatedAncillaryKey": "wh_main_anc_armour_glittering_scales",

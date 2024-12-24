@@ -59,8 +59,8 @@
         "SubtypeKeys": [
             "wh2_dlc14_brt_repanse"
         ],
-        "LocalisedName": "Gilded Greaves",
-        "Description": "None",
+        "LocalisedName": "Silvered Steel Greaves",
+        "Description": "Crafted with precision, these Silvered Steel Greaves offer a sleek and sturdy defense for the knight who values both form and function. Their polished surface gleams in the light, a reflection of the knight's commitment to the ideals of chivalry.",
         "Type": "legs", 
         "IsItemDefinedFromAncillary": true,
         "AssociatedAncillaryKey": "admiralnelson_silvered_greaves_item_key",

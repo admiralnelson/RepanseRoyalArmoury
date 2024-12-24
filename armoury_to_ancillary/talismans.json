@@ -1,0 +1,171 @@
+[
+    {
+        "AncillaryKey" : "wh_dlc07_anc_talisman_dragons_claw",
+        "PowerLevel" : 30,
+        "Effects" : [
+            {
+                "EffectKey": "wh_main_effect_character_stat_bonus_vs_large",
+                "Scope": "character_to_character_own",
+                "Value": 3
+            },
+            {
+                "EffectKey": "wh_main_effect_character_stat_fire_resistance",
+                "Scope": "character_to_character_own",
+                "Value": 15
+            }
+        ]
+    },
+    {
+        "AncillaryKey" : "wh_dlc07_anc_talisman_siriennes_locket",
+        "PowerLevel" : 35,
+        "Effects" : [
+            {
+                "EffectKey": "wh_main_effect_character_stat_physical_resistance",
+                "Scope": "character_to_character_own",
+                "Value": 15
+            }
+        ]
+    },
+    {
+        "AncillaryKey" : "wh_main_anc_talisman_dawnstone",
+        "PowerLevel" : 34,
+        "Effects" : [
+            {
+                "EffectKey": "wh_main_effect_character_stat_physical_resistance",
+                "Scope": "character_to_character_own",
+                "Value": 15
+            }
+        ]
+    },
+    {
+        "AncillaryKey" : "wh_main_anc_talisman_dragonbane_gem",
+        "PowerLevel" : 25,
+        "Effects" : [
+            {
+                "EffectKey": "wh_main_effect_character_stat_fire_resistance",
+                "Scope": "character_to_character_own",
+                "Value": 35
+            }
+        ]
+    },
+    {
+        "AncillaryKey" : "wh_main_anc_talisman_luckstone",
+        "PowerLevel" : 24,
+        "Effects" : [
+            {
+                "EffectKey": "wh_main_effect_character_stat_physical_resistance",
+                "Scope": "character_to_character_own",
+                "Value": 7
+            }
+        ]
+    },
+    {
+        "AncillaryKey" : "wh_main_anc_talisman_obsidian_amulet",
+        "PowerLevel" : 23,
+        "Effects" : [
+            {
+                "EffectKey": "wh_main_effect_character_stat_magic_resistance",
+                "Scope": "character_to_character_own",
+                "Value": 15
+            }
+        ]
+    },
+    {
+        "AncillaryKey" : "wh_main_anc_talisman_obsidian_lodestone",
+        "PowerLevel" : 22,
+        "Effects" : [
+            {
+                "EffectKey": "wh_main_effect_character_stat_magic_resistance",
+                "Scope": "character_to_character_own",
+                "Value": 10
+            }
+        ]
+    },
+    {
+        "AncillaryKey" : "wh_main_anc_talisman_obsidian_trinket",
+        "PowerLevel" : 21,
+        "Effects" : [
+            {
+                "EffectKey": "wh_main_effect_character_stat_magic_resistance",
+                "Scope": "character_to_character_own",
+                "Value": 10
+            }
+        ]
+    },
+    {
+        "AncillaryKey" : "wh_main_anc_talisman_opal_amulet",
+        "PowerLevel" : 40,
+        "Effects" : [
+            {
+                "EffectKey": "wh_main_effect_ability_enable_master_opal_amulet",
+                "Scope": "character_to_character_own",
+                "Value": 1
+            },
+            {
+                "EffectKey": "wh_main_effect_character_stat_melee_defence",
+                "Scope": "character_to_character_own",
+                "Value": 4
+            }
+        ]
+    },
+    {
+        "AncillaryKey" : "wh_main_anc_talisman_pidgeon_plucker_pendant",
+        "PowerLevel" : 29,
+        "Effects" : [
+            {
+                "EffectKey": "wh_main_effect_ability_enable_pidgeon_plucker_pendant",
+                "Scope": "character_to_character_own",
+                "Value": 1
+            },
+            {
+                "EffectKey": "wh_main_effect_character_stat_melee_defence",
+                "Scope": "character_to_character_own",
+                "Value": 2
+            }
+        ]
+    },
+    {
+        "AncillaryKey" : "wh_main_anc_talisman_seed_of_rebirth",
+        "PowerLevel" : 41,
+        "Effects" : [
+            {
+                "EffectKey": "wh_main_effect_ability_enable_seed_of_rebirth",
+                "Scope": "character_to_character_own",
+                "Value": 1
+            }
+        ]
+    },
+    {
+        "AncillaryKey" : "wh_main_anc_talisman_talisman_of_endurance",
+        "PowerLevel" : 42,
+        "Effects" : [
+            {
+                "EffectKey": "wh_main_effect_character_stat_ward_save",
+                "Scope": "character_to_character_own",
+                "Value": 8
+            }
+        ]
+    },
+    {
+        "AncillaryKey" : "wh_main_anc_talisman_talisman_of_preservation",
+        "PowerLevel" : 50,
+        "Effects" : [
+            {
+                "EffectKey": "wh_main_effect_character_stat_ward_save",
+                "Scope": "character_to_character_own",
+                "Value": 16
+            }
+        ]
+    },
+    {
+        "AncillaryKey" : "wh_main_anc_talisman_talisman_of_protection",
+        "PowerLevel" : 41,
+        "Effects" : [
+            {
+                "EffectKey": "wh_main_effect_character_stat_ward_save",
+                "Scope": "character_to_character_own",
+                "Value": 5
+            }
+        ]
+    }
+]

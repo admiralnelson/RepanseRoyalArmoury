@@ -1,0 +1,134 @@
+[
+    {
+        "AncillaryKey" : "admiralnelson_gilded_pauldrons_with_rondels_pauldrons_item_key",
+        "PowerLevel" : 20,
+        "Effects" : [
+            {
+                "EffectKey" : "wh_main_effect_character_stat_armour",
+                "Scope" : "character_to_character_own",
+                "Value" : 6
+            },
+            {
+                "EffectKey" : "wh_main_effect_character_stat_melee_defence",
+                "Scope" : "character_to_character_own",
+                "Value" : 5
+            },
+            {
+                "EffectKey" : "wh_main_effect_character_stat_missile_resistance",
+                "Scope" : "character_to_character_own",
+                "Value" : 10
+            }
+        ]
+    },
+    {
+        "AncillaryKey" : "admiralnelson_gilded_pauldrons_pauldrons_item_key",
+        "PowerLevel" : 15,
+        "Effects" : [
+            {
+                "EffectKey" : "wh_main_effect_character_stat_armour",
+                "Scope" : "character_to_character_own",
+                "Value" : 4
+            },
+            {
+                "EffectKey" : "wh_main_effect_character_stat_melee_defence",
+                "Scope" : "character_to_character_own",
+                "Value" : 2
+            }
+        ]
+    },
+    {
+        "AncillaryKey" : "admiralnelson_lordly_pauldron_of_courage_pauldrons_item_key",
+        "PowerLevel" : 40,
+        "Effects" : [
+            {
+                "EffectKey" : "wh_main_effect_character_stat_armour",
+                "Scope" : "character_to_character_own",
+                "Value" : 15
+            },
+            {
+                "EffectKey" : "wh_main_effect_character_stat_melee_defence",
+                "Scope" : "character_to_character_own",
+                "Value" : 15
+            },
+            {
+                "EffectKey" : "wh_main_effect_character_stat_leadership",
+                "Scope" : "general_to_force_own",
+                "Value" : 10
+            },
+            {
+                "EffectKey" : "wh_main_effect_character_stat_aura_leadership_effect",
+                "Scope" : "character_to_character_own",
+                "Value" : 5
+            }
+        ]
+    },
+    {
+        "AncillaryKey" : "admiralnelson_pauldrons_with_neck_guard_pauldrons_item_key",
+        "PowerLevel" : 20,
+        "Effects" : [
+            {
+                "EffectKey" : "wh_main_effect_character_stat_armour",
+                "Scope" : "character_to_character_own",
+                "Value" : 8
+            },
+            {
+                "EffectKey" : "wh_main_effect_character_stat_physical_resistance",
+                "Scope" : "character_to_character_own",
+                "Value" : 10
+            }
+        ]
+    },
+    {
+        "AncillaryKey" : "admiralnelson_pauldrons_with_single_neck_guard_pauldrons_item_key",
+        "PowerLevel" : 20,
+        "Effects" : [
+            {
+                "EffectKey" : "wh_main_effect_character_stat_armour",
+                "Scope" : "character_to_character_own",
+                "Value" : 5
+            },
+            {
+                "EffectKey" : "wh_main_effect_character_stat_physical_resistance",
+                "Scope" : "character_to_character_own",
+                "Value" : 5
+            }
+        ]
+    },
+    {
+        "AncillaryKey" : "admiralnelson_fleur_de_lys_rondels_pauldrons_item_key",
+        "PowerLevel" : 20,
+        "Effects" : [
+            {
+                "EffectKey" : "wh_main_effect_character_stat_armour",
+                "Scope" : "character_to_character_own",
+                "Value" : 3
+            },
+            {
+                "EffectKey" : "wh_main_effect_character_stat_magic_resistance",
+                "Scope" : "character_to_character_own",
+                "Value" : 20
+            },
+            {
+                "EffectKey" : "wh_main_effect_character_stat_missile_resistance",
+                "Scope" : "character_to_character_own",
+                "Value" : 10
+            }
+        ]
+    },
+    {
+        "AncillaryKey" : "admiralnelson_gilded_rondels_pauldrons_item_key",
+        "PowerLevel" : 16,
+        "Effects" : [
+            {
+                "EffectKey" : "wh_main_effect_character_stat_armour",
+                "Scope" : "character_to_character_own",
+                "Value" : 4
+            },
+            {
+                "EffectKey" : "wh_main_effect_character_stat_missile_resistance",
+                "Scope" : "character_to_character_own",
+                "Value" : 15
+            }
+        ]
+    }
+]

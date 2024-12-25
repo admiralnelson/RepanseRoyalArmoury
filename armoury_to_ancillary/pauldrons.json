@@ -130,5 +130,22 @@
                 "Value" : 15
             }
         ]
+    },
+    {
+        "AncillaryKey": "admiralnelson_pilgrim_gorget_pauldrons_item_key",
+        "PowerLevel": 21,
+        "Effects": [
+            {
+                "EffectKey": "wh_main_effect_character_stat_aura_leadership_effect",
+                "Scope": "character_to_character_own",
+                "Value": 5
+            },
+            {
+                "EffectKey": "wh_main_effect_character_stat_physical_resistance",
+                "Scope": "character_to_character_own",
+                "Value": 5
+            }
+
+        ]
     }
 ]

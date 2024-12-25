@@ -21,7 +21,7 @@
         "CampaignAnimation": null,
         "OnlyCompatibleWithItem": null,
         "AudioType": null,
-        "PreferencedItems": null
+        "PreferencedItems": []
     },
 
     {
@@ -30,8 +30,8 @@
         "LocalisedName": "Modest Gown",
         "Description": "A simple yet elegant gown suitable for formal events, befitting a lady of noble standing.",
         "Type": "torso", 
-        "IsItemDefinedFromAncillary": false,
-        "AssociatedAncillaryKey": null,
+        "IsItemDefinedFromAncillary": true,
+        "AssociatedAncillaryKey": "repanse_bare_gown",
         "AssociatedWithArmouryItemSet": "admiralnelson_armory_repanse_basic",
         "Skeleton": "humanoid01",
         "ItemCategory": "common",
@@ -46,7 +46,7 @@
         "CampaignAnimation": null,
         "OnlyCompatibleWithItem": null,
         "AudioType": null,
-        "PreferencedItems": null
+        "PreferencedItems": []
     },
 
     {
@@ -55,8 +55,8 @@
         "LocalisedName": "Bare",
         "Description": "None",
         "Type": "legs", 
-        "IsItemDefinedFromAncillary": false,
-        "AssociatedAncillaryKey": null,
+        "IsItemDefinedFromAncillary": true,
+        "AssociatedAncillaryKey": "repanse_bare_legs",
         "AssociatedWithArmouryItemSet": "admiralnelson_armory_repanse_basic",
         "Skeleton": "humanoid01",
         "ItemCategory": "common",
@@ -71,8 +71,35 @@
         "CampaignAnimation": null,
         "OnlyCompatibleWithItem": null,
         "AudioType": null,
-        "PreferencedItems": null
+        "PreferencedItems": []
     }, 
+
+    {
+        "ItemName": "kitbasher_repanse_basic_greaves",
+        "SubtypeKeys": ["wh2_dlc14_brt_repanse"],
+        "LocalisedName": "Basic Greaves",
+        "Description": "None",
+        "Type": "legs", 
+        "IsItemDefinedFromAncillary": true,
+        "AssociatedAncillaryKey": "repanse_basic_greaves",
+        "AssociatedWithArmouryItemSet": "admiralnelson_armory_repanse_basic",
+        "Skeleton": "humanoid01",
+        "ItemCategory": "common",
+        "UiIcon": "assets/icons/basic/kitbasher_repanse_basic_greaves.png",
+        "Thumbnail": null,
+        "UnitCardThumbnail":null,
+        "VariantMesh": "variantmeshes\\armour_legs\\normal_starting_legs_1\\normal_starting_legs_1.wsmodel",
+        "VariantMeshDefinitionShouldCreate": true,
+        "VariantMeshScale": 1,
+        "VariantMeshMountScale": 1,
+        "BattleAnimation": null,
+        "CampaignAnimation": null,
+        "OnlyCompatibleWithItem": null,
+        "AudioType": null,
+        "PreferencedItems": []
+        
+
+    },
 
     {
         "SubtypeKeys": ["wh2_dlc14_brt_repanse"],
@@ -96,6 +123,33 @@
         "CampaignAnimation": null,
         "OnlyCompatibleWithItem": null,
         "AudioType": null,
-        "PreferencedItems": null
+        "PreferencedItems": []
+    },
+
+    {
+        "ItemName": "kitbasher_repanse_admiralnelson_questing_knight_tabard_item_key",
+        "SubtypeKeys": ["wh2_dlc14_brt_repanse"],
+        "LocalisedName": "Questing Knight's Tabard",
+        "Description": "Worn by those who seek the Grail, this tabard is a symbol of resolute faith and relentless pursuit of honor.",
+        "Type": "torso", 
+        "IsItemDefinedFromAncillary": true,
+        "AssociatedAncillaryKey": "admiralnelson_questing_knight_tabard_item_key",
+        "AssociatedWithArmouryItemSet": null,
+        "Skeleton": "humanoid01c",
+        "ItemCategory": "common",
+        "UiIcon": "assets/icons/repanse_armoury/kitbasher_repanse_admiralnelson_questing_knight_tabard_item_key.png",
+        "Thumbnail": null,
+        "UnitCardThumbnail": null,
+        "VariantMesh": "variantmeshes\\armour_torso\\normal_female_tabard_of_questing_knight\\normal_female_tabard_of_questing_knight.wsmodel",
+        "VariantMeshDefinitionShouldCreate": true,
+        "VariantMeshScale": 1,
+        "VariantMeshMountScale": 1,
+        "BattleAnimation": null,
+        "CampaignAnimation": null,
+        "OnlyCompatibleWithItem": null,
+        "AudioType": "audio_armour_type:plate",
+        "PreferencedItems": [],
+        "Powerlevel": 25
     }
+
 ]

@@ -1,0 +1,35 @@
+[
+    {
+        "AncillaryKey" : "repanse_bare_gown",
+        "PowerLevel" : 0,
+        "Effects" : [
+            {
+                "EffectKey" : "wh_main_effect_character_stat_armour",
+                "Scope" : "character_to_character_own",
+                "Value" : -20
+            }
+        ]
+    },
+    {
+        "AncillaryKey" : "repanse_bare_legs",
+        "PowerLevel" : 0,
+        "Effects" : [
+            {
+                "EffectKey" : "wh_main_effect_character_stat_armour",
+                "Scope" : "character_to_character_own",
+                "Value" : -10
+            }
+        ]
+    },
+    {
+        "AncillaryKey" : "repanse_basic_greaves",
+        "PowerLevel" : 1,
+        "Effects" : [
+            {
+                "EffectKey" : "wh_main_effect_character_stat_armour",
+                "Scope" : "character_to_character_own",
+                "Value" : 5
+            }
+        ]
+    }
+]

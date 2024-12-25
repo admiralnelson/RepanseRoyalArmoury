@@ -98,7 +98,7 @@
         "Type": "torso", 
         "IsItemDefinedFromAncillary": true,
         "AssociatedAncillaryKey": "admiralnelson_armour_of_revered_tabard_item_key",
-        "AssociatedWithArmouryItemSet": null,
+        "AssociatedWithArmouryItemSet": "admiralnelson_armory_repanse_basic",
         "Skeleton": "humanoid01",
         "ItemCategory": "uncommon",
         "UiIcon": "assets/icons/repanse_armoury/admiralnelson_repanse_armour_of_revered_tabard_item_key.png",

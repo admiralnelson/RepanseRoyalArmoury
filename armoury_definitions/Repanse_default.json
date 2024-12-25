@@ -127,7 +127,7 @@
     },
 
     {
-        "ItemName": "kitbasher_repanse_admiralnelson_questing_knight_tabard_item_key",
+        "ItemName": "kitbasher_repanse_admiralnelson_questing_tabard_item_key",
         "SubtypeKeys": ["wh2_dlc14_brt_repanse"],
         "LocalisedName": "Questing Knight's Tabard",
         "Description": "Worn by those who seek the Grail, this tabard is a symbol of resolute faith and relentless pursuit of honor.",
@@ -135,9 +135,9 @@
         "IsItemDefinedFromAncillary": true,
         "AssociatedAncillaryKey": "admiralnelson_questing_knight_tabard_item_key",
         "AssociatedWithArmouryItemSet": "admiralnelson_armory_repanse_basic",
-        "Skeleton": "humanoid01c",
+        "Skeleton": "humanoid01",
         "ItemCategory": "common",
-        "UiIcon": "assets/icons/repanse_armoury/kitbasher_repanse_admiralnelson_questing_knight_tabard_item_key.png",
+        "UiIcon": "assets/icons/repanse_armoury/kitbasher_repanse_admiralnelson_questing_tabard_item_key.png",
         "Thumbnail": null,
         "UnitCardThumbnail": null,
         "VariantMesh": "variantmeshes\\armour_torso\\normal_female_tabard_of_questing_knight\\normal_female_tabard_of_questing_knight.wsmodel",

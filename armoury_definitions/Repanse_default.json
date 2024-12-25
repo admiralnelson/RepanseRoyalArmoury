@@ -134,7 +134,7 @@
         "Type": "torso", 
         "IsItemDefinedFromAncillary": true,
         "AssociatedAncillaryKey": "admiralnelson_questing_knight_tabard_item_key",
-        "AssociatedWithArmouryItemSet": null,
+        "AssociatedWithArmouryItemSet": "admiralnelson_armory_repanse_basic",
         "Skeleton": "humanoid01c",
         "ItemCategory": "common",
         "UiIcon": "assets/icons/repanse_armoury/kitbasher_repanse_admiralnelson_questing_knight_tabard_item_key.png",

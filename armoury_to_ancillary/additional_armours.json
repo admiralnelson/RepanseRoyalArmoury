@@ -22,7 +22,7 @@
     },
     {
         "AncillaryKey" : "admiralnelson_questing_knight_tabard_item_key",
-        "PowerLevel" : 29,
+        "PowerLevel" : 26,
         "Effects" : [
             {
                 "EffectKey" : "wh_main_effect_character_stat_armour",
@@ -32,12 +32,12 @@
             {
                 "EffectKey" : "wh_main_effect_character_stat_physical_resistance",
                 "Scope" : "character_to_character_own",
-                "Value" : 30
+                "Value" : 5
             },
             {
                 "EffectKey" : "wh_main_effect_character_stat_melee_attack",
                 "Scope" : "character_to_character_own",
-                "Value" : 15
+                "Value" : 2
             }
         ]
     }

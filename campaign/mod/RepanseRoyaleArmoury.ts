@@ -1,15 +1,19 @@
 namespace RepanseRoyaleArmoury {
     const api = BretonniaInGameKitbash
 
-    function IsRepanseAIControlled() : boolean {
+    function IsRepanseHumanControlled() : boolean {
         const repanseFaction = api.GetFactionByKey("wh2_dlc14_brt_chevaliers_de_lyonesse")
-        const isAiControlled = repanseFaction?.IsHuman
+        if(repanseFaction == null) return false
 
-        return !isAiControlled
+        const isHumanControlled = repanseFaction.IsHuman
+
+        return isHumanControlled
     }
 
     function GiveRepanseHerSpecialItemsForAI() {
-        if(!IsRepanseAIControlled()) return
+        if(IsRepanseHumanControlled()) return
+
+        console.warn("Giving Repanse her special items for AI")
 
         const repanseFaction = api.GetFactionByKey("wh2_dlc14_brt_chevaliers_de_lyonesse")
         const factionLeader = repanseFaction?.FactionLeader
@@ -25,16 +29,19 @@ namespace RepanseRoyaleArmoury {
 
         //step 1. give her torso armour
         setTimeout(() => {
+            console.log("Giving Repanse her torso armour")
             factionLeader.AddArmoryItem("kitbasher_repanse_blessed_armor_of_the_lady", true, true)
         }, 100)
 
         //step 2. give her leg armour
         setTimeout(() => {
+            console.log("Giving Repanse her leg armour")
             factionLeader.AddArmoryItem("kitbasher_repanse_greaves_of_the_lady", true, true)
         }, 150)
 
         //step 3. give her pauldron armour
         setTimeout(() => {
+            console.log("Giving Repanse her pauldron armour")
             factionLeader.AddArmoryItem("kitbasher_repanse_pauldrons_of_the_lady", true, true)
         }, 200)
     }
@@ -52,7 +59,7 @@ namespace RepanseRoyaleArmoury {
                 const character = context.character()
                 const ancillary = context.ancillary()
                 
-                if(IsRepanseAIControlled()) return false
+                if(!IsRepanseHumanControlled()) return false
 
                 const isSwordOfLyonese = ancillary === "wh2_dlc14_anc_weapon_sword_of_lyonesse"
                 const lord  = api.WrapICharacterObjectToCharacter(character)
